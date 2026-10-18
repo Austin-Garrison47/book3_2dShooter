@@ -1,0 +1,4 @@
+repository "book3_2dShooter/book3_2dShooter@20067638083717@cloud"
+  path "/"
+    br "/main"
+    co "/main"
